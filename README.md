@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+
+[![An image of @srbmaury's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srbmaury)](https://holopin.io/@srbmaury)
 <!-- 
 - 👋 Hi, I'm Saurabh
 - 🔭 I’m currently working on web development
