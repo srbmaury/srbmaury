@@ -99,11 +99,11 @@ A **real-time chat application** with modern messaging features.
 
 ## 🛠️ Tech Stack
 
-**Languages:** C++, Java, Python, JavaScript
-**Frontend:** React, HTML, CSS
-**Backend:** Node.js, Express
-**Databases:** MongoDB, PostgreSQL, Redis
-**Tools & Concepts:** GraphQL, Socket.io, D3.js, System Design, LLD
+- **Languages:** C++, Java, Python, JavaScript
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, PostgreSQL, Redis
+- **Tools & Concepts:** GraphQL, Socket.io, D3.js, System Design, LLD
 
 ---
 
