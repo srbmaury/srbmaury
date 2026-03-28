@@ -1,38 +1,154 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+# 👋 Hi, I'm Saurabh Maurya
 
-[![An image of @srbmaury's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srbmaury)](https://holopin.io/@srbmaury)
-<!-- 
-- 👋 Hi, I'm Saurabh
-- 🔭 I’m currently working on web development
-- 🌱 Currently in IIT BHU -->
+🚀 Full Stack Developer | MERN Stack | System Design Enthusiast
+💡 Building scalable systems that solve real-world problems
 
-## 📈 Stats
-
-| <a href="https://github.com/srbmaury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=srbmaury&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Saurabh's github stats" /></a> | <a href="https://github.com/srbmaury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srbmaury&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p align="center">
+  <b>Building scalable systems • Solving real-world problems • Always learning</b>
+</p>
 
 <div align="center">
-  <br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=srbmaury.srbmaury" alt="visitors">
+    
+  [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://saurabh-maurya-portfolio.netlify.app/)
+  
 </div>
 
+---
 
-## 🔥 Streaks
+## 🔥 About Me
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srbmaury)](https://git.io/streak-stats)
- 
- 
- ## 📱 Technologies
-<code><img height="60" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="60" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="60" alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="60" alt="cpp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="60" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="60" alt="express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="60" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="60" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="60" alt="django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="60" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+* 💻 Full Stack Developer experienced in **React, Node.js, MongoDB**
+* 🧠 Strong interest in **System Design, LLD, and scalable architectures**
+* 📈 Passionate about building **real-world impactful applications**
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Ecommerce Search Engine
+
+🔗 Live: https://ecommerce-search.onrender.com/
+💻 Code: https://github.com/srbmaury/Ecommerce-Search
+
+A **production-grade ML-powered search system** simulating real-world ecommerce platforms.
+
+* Intelligent ranking & personalization
+* Search relevance optimization
+* Handles large-scale product datasets
+
+**Tech:** Python, Machine Learning, JavaScript
+
+---
+
+### 🚀 Hackathon Portal
+
+🔗 Live: https://hackathon-portal-sepia.vercel.app
+💻 Code: https://github.com/srbmaury/Hackathon-Portal
+
+A **full-stack platform to manage hackathons, teams, and ideas**.
+
+* Role-based access control
+* Team collaboration & idea submission
+* AI-powered workflows
+
+**Tech:** React, Node.js, Express, MongoDB
+
+---
+
+### 🌳 YAML Data Visualizer
+
+🔗 Live: https://yaml-visualizer.netlify.app/
+💻 Code: https://github.com/srbmaury/YAML-Visualizer
+
+Transforms YAML into **interactive tree visualizations**.
+
+* Real-time editing & visualization
+* Diff comparison
+* AI-assisted insights
+
+**Tech:** React, D3.js, Node.js
+
+---
+
+### 💬 MERN Chat Application
+
+🔗 Live: https://mern-chat-app-xlr3.onrender.com/
+💻 Code: https://github.com/srbmaury/MERN-Chat-App
+
+A **real-time chat application** with modern messaging features.
+
+* JWT authentication
+* Socket.io real-time messaging
+* WhatsApp-like interface
+
+**Tech:** React, Node.js, MongoDB
+
+---
+
+## 🧠 Other Notable Projects
+
+* 📋 **Kanban Board** – Trello-like task manager with drag & drop
+* 🏪 **Store Management System** – Inventory & sales tracking
+* 📝 **Notes App** – Markdown-based note-taking system
+* ❓ **Quiz App** – Interactive quiz with scoring
+* 🎮 **Flappy Bird Clone** – Canvas-based game
+* 📚 **Dictionary App** – API-based word lookup
+* 🔍 **Codeforces Filter Extension** – Chrome extension for filtering blogs
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** C++, Java, Python, JavaScript
+**Frontend:** React, HTML, CSS
+**Backend:** Node.js, Express
+**Databases:** MongoDB, PostgreSQL, Redis
+**Tools & Concepts:** GraphQL, Socket.io, D3.js, System Design, LLD
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Codeforces Specialist (Max Rating: 1586)
+* 🧠 LeetCode Knight (Max Rating: 1931)
+* 🏅 AIR 2669 (JEE Main) | AIR 4997 (JEE Advanced)
+* 🌍 Google Kick Start Rank 862 / 100K+ participants
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srbmaury&layout=compact&theme=buefy&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srbmaury&theme=buefy&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=srbmaury.srbmaury" alt="visitor badge"/>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/srbmaury/
+* 📧 Email: [srbmaury@gmail.com](mailto:srbmaury@gmail.com)
+
+---
+
+⭐ *“I focus on building systems that solve real problems, not just completing projects.”*
