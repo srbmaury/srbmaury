@@ -1,154 +1,60 @@
-# 👋 Hi, I'm Saurabh Maurya
+# Saurabh Maurya
 
-🚀 Full Stack Developer | MERN Stack | System Design Enthusiast
-💡 Building scalable systems that solve real-world problems
+I build practical software around information: finding it, organizing it, visualizing it, and turning it into useful actions.
 
-<p align="center">
-  <b>Building scalable systems • Solving real-world problems • Always learning</b>
-</p>
+My work ranges from search and knowledge-management tools to real-time collaboration and privacy-conscious Android experiences.
 
-<div align="center">
-    
-  [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://saurabh-maurya-portfolio.netlify.app/)
-  
-</div>
+[Portfolio](https://srbmaury.com) · [LinkedIn](https://www.linkedin.com/in/srbmaury/) · [Email](mailto:contact@srbmaury.com)
 
----
+## Things I’ve built
 
-## 🔥 About Me
+### Search that feels useful, not just fast
+**[Ecommerce Search Engine](https://github.com/srbmaury/Ecommerce-Search)** · [Live demo](https://ecommerce-search.onrender.com/)
 
-* 💻 Full Stack Developer experienced in **React, Node.js, MongoDB**
-* 🧠 Strong interest in **System Design, LLD, and scalable architectures**
-* 📈 Passionate about building **real-world impactful applications**
+An ML-powered product-search experience exploring ranking, relevance, and personalization—the decisions that determine whether users find what they came for.
 
----
+`Python` `Machine Learning` `JavaScript`
 
-## 🚀 Featured Projects
+### A visual workspace for complex configuration
+**[YAML Data Visualizer](https://github.com/srbmaury/YAML-Visualizer)** · [Live demo](https://yaml-visualizer.netlify.app/)
 
-### 🛒 Ecommerce Search Engine
+Turns YAML into an interactive tree so developers can inspect structure instead of mentally parsing indentation. Includes editing, comparison, versioning, AI assistance, and real-time collaboration.
 
-🔗 Live: https://ecommerce-search.onrender.com/
-💻 Code: https://github.com/srbmaury/Ecommerce-Search
+`React` `Node.js` `D3.js` `MongoDB`
 
-A **production-grade ML-powered search system** simulating real-world ecommerce platforms.
+### A place for developer knowledge
+**[Developer Knowledge Base](https://github.com/srbmaury/Developer-Knowledge-Base)** · [Live demo](https://developer-knowledge-base.onrender.com/)
 
-* Intelligent ranking & personalization
-* Search relevance optimization
-* Handles large-scale product datasets
+A focused space for notes and interview preparation, built to make technical knowledge easier to capture, structure, and retrieve.
 
-**Tech:** Python, Machine Learning, JavaScript
+`Next.js` `TypeScript` `Prisma` `PostgreSQL`
 
----
+### Reminders without tracking people
+**[ExitSense](https://github.com/srbmaury/ExitSense)**
 
-### 🚀 Hackathon Portal
+An Android app that notices when you are leaving home and reminds you what to take—without relying on GPS or location permission.
 
-🔗 Live: https://hackathon-portal-sepia.vercel.app
-💻 Code: https://github.com/srbmaury/Hackathon-Portal
+`Kotlin` `Android`
 
-A **full-stack platform to manage hackathons, teams, and ideas**.
+## Also worth a look
 
-* Role-based access control
-* Team collaboration & idea submission
-* AI-powered workflows
+- **[Hackathon Portal](https://github.com/srbmaury/Hackathon-Portal)** — teams, ideas, role-based workflows, and hackathon operations.
+- **[MERN Chat Application](https://github.com/srbmaury/MERN-Chat-App)** — real-time one-to-one and group messaging with Socket.io.
+- A Kanban board, store-management system, Markdown notes app, quiz app, Canvas game, dictionary app, and a Codeforces filtering extension.
 
-**Tech:** React, Node.js, Express, MongoDB
+## My toolkit
 
----
+I most often work with **TypeScript, React, Next.js, Node.js, PostgreSQL, MongoDB, Redis, Prisma, Kotlin, and Android**.
 
-### 🌳 YAML Data Visualizer
+I’m especially interested in search and ranking, real-time systems, developer tooling, system design, and building products with thoughtful constraints.
 
-🔗 Live: https://yaml-visualizer.netlify.app/
-💻 Code: https://github.com/srbmaury/YAML-Visualizer
+## A few signals
 
-Transforms YAML into **interactive tree visualizations**.
+- Codeforces Specialist — peak rating **1586**
+- LeetCode Knight — peak rating **1931**
+- JEE Main AIR **2669** · JEE Advanced AIR **4997**
+- Google Kick Start rank **862** among 100K+ participants
 
-* Real-time editing & visualization
-* Diff comparison
-* AI-assisted insights
+## Say hello
 
-**Tech:** React, D3.js, Node.js
-
----
-
-### 💬 MERN Chat Application
-
-🔗 Live: https://mern-chat-app-xlr3.onrender.com/
-💻 Code: https://github.com/srbmaury/MERN-Chat-App
-
-A **real-time chat application** with modern messaging features.
-
-* JWT authentication
-* Socket.io real-time messaging
-* WhatsApp-like interface
-
-**Tech:** React, Node.js, MongoDB
-
----
-
-## 🧠 Other Notable Projects
-
-* 📋 **Kanban Board** – Trello-like task manager with drag & drop
-* 🏪 **Store Management System** – Inventory & sales tracking
-* 📝 **Notes App** – Markdown-based note-taking system
-* ❓ **Quiz App** – Interactive quiz with scoring
-* 🎮 **Flappy Bird Clone** – Canvas-based game
-* 📚 **Dictionary App** – API-based word lookup
-* 🔍 **Codeforces Filter Extension** – Chrome extension for filtering blogs
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** C++, Java, Python, JavaScript
-- **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express
-- **Databases:** MongoDB, PostgreSQL, Redis
-- **Tools & Concepts:** GraphQL, Socket.io, D3.js, System Design, LLD
-
----
-
-## 🏆 Achievements
-
-* 🥇 Codeforces Specialist (Max Rating: 1586)
-* 🧠 LeetCode Knight (Max Rating: 1931)
-* 🏅 AIR 2669 (JEE Main) | AIR 4997 (JEE Advanced)
-* 🌍 Google Kick Start Rank 862 / 100K+ participants
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srbmaury&layout=compact&theme=buefy&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srbmaury&theme=buefy&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=srbmaury.srbmaury" alt="visitor badge"/>
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/srbmaury/
-* 📧 Email: [srbmaury@gmail.com](mailto:srbmaury@gmail.com)
-
----
-
-⭐ *“I focus on building systems that solve real problems, not just completing projects.”*
+[Portfolio](https://srbmaury.com) · [LinkedIn](https://www.linkedin.com/in/srbmaury/) · [contact@srbmaury.com](mailto:contact@srbmaury.com)
